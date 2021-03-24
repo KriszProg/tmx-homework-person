@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>hu.tmx</groupId>
-  <artifactId>tmx-homework</artifactId>
+  <artifactId>tmx-homework-person</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>tmx-homework</name>
+  <name>tmx-homework-person</name>
   <packaging>jar</packaging>
 
   <properties>
